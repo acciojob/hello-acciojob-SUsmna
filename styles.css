@@ -1,14 +1,16 @@
 
 /* Your CSS Code here. */
 
-.acccio{
-	height:150px;
-	background-color: black;
+.acccio {
+	width: 150px;
+	height: 150px;
+	background-color: #000000;
 }
 
 .hello-accio{
-	margin-left:32px;	
-	padding:10px;
-	color:#ffffff;
+	color: #ffffff;
+	margin-left: 32px;	
+	padding: 10px;
+	
 }
 
